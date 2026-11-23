@@ -367,7 +367,6 @@ button:focus-visible, select:focus-visible { outline: 2px solid #913b23; outline
 .feedback-toolbar { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; margin-top: 13px; font-size: 14px; }
 .feedback-toolbar label { display: flex; align-items: center; gap: 8px; }
 .feedback-toolbar select { min-height: 35px; max-width: 100%; padding-inline: 7px; border: 1px solid #cfbbae; border-radius: 4px; background: #f9f3ee; }
-.feedback-disclosure { padding-bottom: 10px; margin: 7px 0 3px; border-bottom: 1px solid #b49988; color: #634c40; font-size: 13px; }
 .feedback-item { padding: 17px 0 22px; }
 .feedback-item + .feedback-item { border-top: 1px solid #dcc9ba; }
 .feedback-byline { display: grid; grid-template-columns: clamp(64px, 24vw, 102px) minmax(0, 1fr); gap: 10px; align-items: start; }

@@ -412,7 +412,7 @@ button:focus-visible, select:focus-visible { outline: 2px solid #913b23; outline
 }
 
 
-.header-buy { flex: none; margin-inline-start: auto; min-height: 44px; padding-inline: 11px; font-size: 13px; white-space: nowrap; }
+.header-buy { flex: none; margin-inline-start: auto; min-height: 44px; padding-inline: 16px; font-size: 13px; white-space: nowrap; }
 .hero-price { margin-top: 2px; padding: 6px 10px; border-radius: 6px; background: var(--offer-background); color: #fff; }
 .hero-price-line { display: flex; align-items: baseline; flex-wrap: wrap; gap: 6px; }
 .hero-price-line > span { font-size: 13px; font-weight: 600; }
